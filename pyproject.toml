@@ -1,0 +1,14 @@
+[project]
+name = "loops"
+description = "A custom node for ComfyUI that creates looping animations from image sequences."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/dicksensei69/comfyui_loops"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_loops"
+Icon = ""
